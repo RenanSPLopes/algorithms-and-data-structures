@@ -1,0 +1,14 @@
+
+100 mil números
+
+1-
+bubblesort -> 38.580503 seconds
+insertionsort ->  5.839061 seconds
+
+2-
+bublesort -> 37.334883 seconds
+insertionsort -> 6.148669 seconds
+
+3-
+bublesort -> 38.519723 seconds
+insertionsort -> 6.163055 seconds
